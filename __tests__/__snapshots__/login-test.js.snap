@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Login snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "display": "flex",
+      "flex": 1,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "padding": 35,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#f01d71",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginBottom": 10,
+        "textAlign": "center",
+      }
+    }
+  >
+    Please make a selection:
+  </Text>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "paddingTop": 10,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#f01d71",
+            "borderRadius": 8,
+            "marginVertical": 10,
+            "paddingHorizontal": 10,
+            "paddingVertical": 30,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 16,
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+          Order Food
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#f01d71",
+            "borderRadius": 8,
+            "marginVertical": 10,
+            "paddingHorizontal": 10,
+            "paddingVertical": 30,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 16,
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+          Check Queue Number
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#f01d71",
+            "borderRadius": 8,
+            "marginVertical": 10,
+            "paddingHorizontal": 10,
+            "paddingVertical": 30,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 16,
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+          Log Out
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
